@@ -1,4 +1,17 @@
-﻿1. 
+<TEI>
+   <teiHeader>
+       <FileDesc>
+           <titleStmt>
+                  <title>Кавказские повести</title>
+           </titleStmt>
+           <respStmt>
+               <persName>Елена Минасянц</persName>
+               <resp>Создание TEI, обозначение прямой речи</resp>
+           </respStmt>
+        </fileDesc>
+   </teiHeader>
+   <text>
+1. 
 <text> 
 <speech> 
 <said type="direct" aloud="true"> 
