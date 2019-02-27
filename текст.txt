@@ -1,6 +1,7 @@
 ﻿<TEI>
    <teiHeader>
        <FileDesc>
+       сюда запихать персонажей
            <titleStmt>
                   <title>Майков В.И. Елисей, или раздраженный Вакх. Песнь первая</title>
            </titleStmt>
