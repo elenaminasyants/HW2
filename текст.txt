@@ -13,7 +13,7 @@
              <particDesc>
                  <listPerson type="mythical">  
                      <person xml:id="01">
-                         <persName>Зевс</persName> # выделяем персонажа
+                         <persName>Зевс</persName>
                      </person>
                      <person xml:id="02">
                          <persName>Вакх</persName>
@@ -111,7 +111,7 @@
 И что продлится то до по́зднейших времен.
 
 И как твой стал обет, <person xml:id="01">мой отче</person xml:id="01">, пременен?»
-Тогда //////////<person xml:id="01">отец богов</person xml:id="01"> сыновни речи внемлет
+Тогда <person xml:id="01">отец богов</person xml:id="01"> сыновни речи внемлет
 И отягченные вином глаза подъемлет,
 Такой с усмешкою на <person xml:id="02">Вакха</person xml:id="02"> взор возвед,
 Какой имел, как шел с <persName>Юноной</persName> на подклет,
